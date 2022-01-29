@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-A interesting video  ↓
+A interesting video 
 https://www.bilibili.com/video/BV1GJ411x7h7
